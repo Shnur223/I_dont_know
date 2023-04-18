@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-    std::cout<<"Hello test COMMIT";
+    std::cout<<"Hello test COMMITs";
     return 0;
 }
